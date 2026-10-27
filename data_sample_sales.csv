@@ -1,0 +1,501 @@
+order_id,region,category,quantity,unit_price,sales
+1,West,Electronics,9,224.48,2020.32
+2,East,Office Supplies,4,37.46,149.85
+3,West,Office Supplies,14,28.44,398.12
+4,West,Electronics,8,250.53,2004.2
+5,West,Office Supplies,7,38.01,266.09
+6,South,Electronics,15,258.92,3883.74
+7,West,Electronics,14,234.02,3276.22
+8,East,Electronics,11,210.21,2312.34
+9,South,Electronics,12,284.74,3416.86
+10,Central,Electronics,15,253.61,3804.19
+11,South,Electronics,18,229.31,4127.56
+12,Central,Office Supplies,7,37.85,264.97
+13,West,Office Supplies,8,38.81,310.49
+14,West,Electronics,4,238.0,952.01
+15,South,Office Supplies,12,30.27,363.22
+16,Central,Electronics,9,270.17,2431.54
+17,West,Office Supplies,6,35.47,212.81
+18,East,Electronics,15,237.94,3569.04
+19,East,Office Supplies,11,39.79,437.67
+20,West,Electronics,2,280.49,560.99
+21,South,Furniture,3,159.18,477.55
+22,Central,Electronics,16,239.55,3832.86
+23,South,Electronics,9,213.95,1925.59
+24,Central,Office Supplies,19,33.99,645.78
+25,South,Furniture,8,215.8,1726.36
+26,East,Office Supplies,16,29.26,468.23
+27,West,Electronics,5,262.73,1313.67
+28,South,Office Supplies,3,33.38,100.13
+29,South,Office Supplies,9,41.58,374.25
+30,West,Office Supplies,4,37.53,150.13
+31,Central,Office Supplies,11,29.55,325.09
+32,South,Electronics,15,200.32,3004.75
+33,Central,Office Supplies,6,35.1,210.59
+34,West,Office Supplies,10,39.77,397.72
+35,East,Electronics,12,276.24,3314.88
+36,West,Office Supplies,11,34.83,383.14
+37,West,Furniture,10,161.23,1612.32
+38,East,Office Supplies,3,29.19,87.57
+39,South,Electronics,18,276.57,4978.3
+40,East,Office Supplies,16,41.24,659.91
+41,East,Furniture,17,206.8,3515.66
+42,South,Electronics,18,275.52,4959.28
+43,East,Office Supplies,10,33.58,335.76
+44,Central,Furniture,17,176.5,3000.45
+45,East,Electronics,3,233.8,701.4
+46,East,Office Supplies,8,28.09,224.74
+47,West,Electronics,3,290.53,871.59
+48,Central,Electronics,17,223.79,3804.46
+49,South,Electronics,18,213.22,3838.01
+50,South,Electronics,16,280.74,4491.82
+51,East,Electronics,4,265.89,1063.55
+52,Central,Furniture,14,177.62,2486.62
+53,West,Office Supplies,4,28.84,115.36
+54,Central,Electronics,8,219.15,1753.2
+55,South,Electronics,14,218.34,3056.76
+56,South,Electronics,3,244.3,732.91
+57,West,Electronics,18,283.59,5104.65
+58,West,Electronics,6,240.63,1443.79
+59,South,Electronics,13,290.23,3773.02
+60,East,Furniture,1,214.93,214.93
+61,Central,Furniture,10,174.45,1744.47
+62,South,Electronics,7,229.66,1607.63
+63,West,Office Supplies,18,28.85,519.21
+64,Central,Electronics,2,258.41,516.81
+65,East,Electronics,17,208.0,3536.05
+66,East,Electronics,20,206.79,4135.76
+67,East,Furniture,4,211.78,847.13
+68,East,Office Supplies,20,28.55,570.96
+69,West,Furniture,19,184.69,3509.04
+70,Central,Furniture,7,192.21,1345.47
+71,Central,Electronics,9,239.57,2156.12
+72,Central,Furniture,11,210.88,2319.65
+73,West,Electronics,15,262.11,3931.58
+74,West,Electronics,18,221.31,3983.52
+75,Central,Electronics,12,288.07,3456.9
+76,East,Furniture,10,155.35,1553.49
+77,Central,Office Supplies,17,28.1,477.73
+78,Central,Office Supplies,4,41.13,164.53
+79,East,Furniture,4,208.05,832.19
+80,East,Furniture,10,187.54,1875.37
+81,Central,Electronics,9,250.53,2254.78
+82,Central,Electronics,3,263.42,790.25
+83,Central,Electronics,1,233.35,233.35
+84,East,Office Supplies,9,30.25,272.28
+85,South,Office Supplies,14,35.84,501.79
+86,West,Electronics,5,254.55,1272.74
+87,Central,Office Supplies,18,30.06,541.16
+88,East,Electronics,10,236.46,2364.56
+89,West,Furniture,7,193.1,1351.69
+90,West,Furniture,18,207.65,3737.63
+91,South,Office Supplies,5,40.95,204.74
+92,East,Electronics,6,288.13,1728.78
+93,West,Electronics,11,278.23,3060.5
+94,South,Office Supplies,8,31.73,253.81
+95,West,Furniture,2,205.81,411.61
+96,East,Electronics,15,234.96,3524.35
+97,East,Electronics,1,265.99,265.99
+98,South,Furniture,9,206.22,1856.0
+99,Central,Furniture,17,172.77,2937.04
+100,Central,Electronics,4,287.69,1150.77
+101,Central,Electronics,19,296.24,5628.59
+102,Central,Electronics,4,259.65,1038.59
+103,Central,Office Supplies,11,34.1,375.1
+104,West,Furniture,19,157.68,2995.86
+105,West,Office Supplies,14,28.02,392.22
+106,East,Furniture,14,149.03,2086.42
+107,Central,Office Supplies,11,37.28,410.04
+108,West,Office Supplies,10,35.09,350.9
+109,South,Furniture,13,194.19,2524.45
+110,East,Electronics,14,266.48,3730.75
+111,South,Office Supplies,6,36.61,219.64
+112,Central,Furniture,18,204.02,3672.3
+113,Central,Furniture,7,174.94,1224.6
+114,Central,Furniture,15,175.83,2637.39
+115,East,Office Supplies,16,39.1,625.62
+116,East,Office Supplies,3,31.96,95.89
+117,Central,Electronics,8,267.27,2138.15
+118,East,Electronics,5,202.43,1012.17
+119,East,Furniture,20,205.17,4103.39
+120,West,Furniture,14,207.79,2909.06
+121,East,Office Supplies,13,34.91,453.85
+122,East,Electronics,1,289.25,289.25
+123,West,Furniture,8,156.66,1253.24
+124,South,Electronics,18,224.91,4048.39
+125,West,Furniture,5,201.69,1008.45
+126,Central,Furniture,20,202.67,4053.38
+127,South,Office Supplies,15,40.55,608.24
+128,South,Furniture,9,198.12,1783.05
+129,Central,Office Supplies,16,36.76,588.22
+130,Central,Furniture,3,195.36,586.09
+131,East,Furniture,11,167.01,1837.11
+132,West,Electronics,5,223.12,1115.59
+133,East,Office Supplies,7,28.89,202.24
+134,South,Furniture,18,177.54,3195.66
+135,West,Electronics,14,238.94,3345.13
+136,West,Office Supplies,13,34.67,450.68
+137,Central,Furniture,13,205.44,2670.68
+138,South,Office Supplies,18,39.19,705.37
+139,East,Furniture,8,163.64,1309.14
+140,South,Electronics,13,233.6,3036.85
+141,South,Office Supplies,6,39.76,238.53
+142,East,Office Supplies,18,28.37,510.65
+143,South,Office Supplies,19,37.27,708.16
+144,West,Office Supplies,14,29.89,418.48
+145,South,Electronics,2,226.01,452.01
+146,Central,Electronics,15,232.68,3490.13
+147,South,Furniture,14,162.15,2270.16
+148,West,Furniture,1,197.92,197.92
+149,West,Furniture,8,190.8,1526.4
+150,West,Electronics,8,219.93,1759.42
+151,West,Office Supplies,5,31.33,156.65
+152,South,Office Supplies,4,35.89,143.54
+153,East,Furniture,9,199.21,1792.85
+154,East,Office Supplies,20,41.48,829.61
+155,West,Electronics,10,210.8,2108.01
+156,West,Furniture,19,192.76,3662.41
+157,South,Furniture,7,149.46,1046.24
+158,East,Electronics,10,285.02,2850.18
+159,West,Office Supplies,2,32.85,65.7
+160,South,Office Supplies,12,28.96,347.49
+161,Central,Electronics,14,282.22,3951.11
+162,West,Furniture,12,189.75,2277.02
+163,South,Office Supplies,5,34.09,170.44
+164,Central,Office Supplies,18,38.83,699.01
+165,South,Furniture,19,163.32,3102.99
+166,East,Electronics,9,288.15,2593.36
+167,East,Furniture,19,187.93,3570.74
+168,South,Furniture,1,179.58,179.58
+169,Central,Electronics,16,221.2,3539.25
+170,Central,Furniture,9,207.37,1866.34
+171,Central,Office Supplies,1,35.22,35.22
+172,East,Electronics,8,272.0,2175.97
+173,South,Office Supplies,8,37.66,301.26
+174,South,Furniture,1,150.69,150.69
+175,East,Furniture,8,166.04,1328.3
+176,Central,Furniture,18,182.22,3279.89
+177,South,Office Supplies,18,32.62,587.19
+178,South,Furniture,10,162.09,1620.92
+179,West,Office Supplies,7,32.41,226.86
+180,East,Electronics,7,273.85,1916.95
+181,Central,Office Supplies,19,41.66,791.55
+182,Central,Electronics,7,229.62,1607.31
+183,Central,Electronics,10,201.41,2014.07
+184,East,Furniture,2,214.14,428.27
+185,Central,Office Supplies,5,36.92,184.6
+186,South,Electronics,1,257.4,257.4
+187,South,Furniture,15,168.52,2527.82
+188,West,Furniture,16,152.21,2435.29
+189,West,Furniture,16,149.33,2389.21
+190,West,Electronics,5,281.1,1405.51
+191,Central,Electronics,8,211.84,1694.69
+192,South,Office Supplies,20,39.06,781.18
+193,East,Office Supplies,13,34.3,445.87
+194,South,Furniture,19,215.27,4090.14
+195,Central,Office Supplies,20,28.83,576.7
+196,West,Electronics,7,226.46,1585.19
+197,West,Electronics,8,217.37,1738.98
+198,West,Electronics,1,240.84,240.84
+199,South,Furniture,2,160.66,321.31
+200,Central,Office Supplies,15,28.99,434.82
+201,East,Furniture,19,191.59,3640.3
+202,East,Furniture,4,183.2,732.79
+203,East,Furniture,5,149.13,745.67
+204,East,Furniture,20,197.91,3958.28
+205,Central,Furniture,4,177.74,710.95
+206,Central,Office Supplies,13,41.19,535.41
+207,South,Furniture,3,187.05,561.14
+208,South,Office Supplies,11,36.44,400.86
+209,West,Electronics,8,296.18,2369.43
+210,West,Office Supplies,9,36.06,324.51
+211,East,Furniture,17,190.9,3245.27
+212,Central,Electronics,19,243.58,4628.0
+213,South,Electronics,16,234.79,3756.59
+214,Central,Furniture,4,205.75,822.98
+215,Central,Furniture,16,164.74,2635.88
+216,South,Office Supplies,2,34.36,68.72
+217,Central,Furniture,11,152.34,1675.72
+218,South,Office Supplies,1,37.2,37.2
+219,South,Furniture,2,157.5,314.99
+220,Central,Office Supplies,16,36.75,587.92
+221,West,Electronics,9,254.91,2294.21
+222,Central,Furniture,16,152.73,2443.75
+223,East,Office Supplies,6,32.34,194.05
+224,West,Office Supplies,14,29.3,410.15
+225,West,Furniture,4,190.62,762.5
+226,East,Furniture,10,180.63,1806.29
+227,Central,Furniture,16,214.57,3433.05
+228,East,Furniture,18,154.41,2779.3
+229,East,Office Supplies,17,38.44,653.43
+230,East,Electronics,9,277.26,2495.31
+231,South,Furniture,17,163.23,2774.87
+232,West,Furniture,10,204.29,2042.87
+233,South,Electronics,15,253.85,3807.72
+234,Central,Furniture,18,198.92,3580.48
+235,South,Furniture,11,206.6,2272.6
+236,East,Office Supplies,13,31.26,406.39
+237,South,Electronics,11,274.46,3019.05
+238,South,Furniture,5,179.65,898.27
+239,West,Electronics,17,296.52,5040.9
+240,Central,Electronics,15,209.96,3149.44
+241,South,Electronics,5,240.99,1204.94
+242,East,Electronics,16,278.14,4450.26
+243,Central,Furniture,20,193.86,3877.28
+244,West,Furniture,18,171.35,3084.32
+245,Central,Office Supplies,16,40.2,643.23
+246,West,Office Supplies,3,31.28,93.83
+247,Central,Electronics,3,243.39,730.16
+248,West,Office Supplies,4,34.2,136.81
+249,Central,Electronics,2,232.43,464.86
+250,West,Furniture,12,170.98,2051.75
+251,East,Electronics,17,241.2,4100.32
+252,East,Electronics,6,207.89,1247.33
+253,South,Office Supplies,8,34.96,279.66
+254,East,Electronics,15,263.78,3956.7
+255,South,Furniture,1,208.71,208.71
+256,South,Furniture,18,155.37,2796.58
+257,South,Furniture,19,165.53,3145.07
+258,South,Office Supplies,9,34.39,309.47
+259,Central,Electronics,13,285.32,3709.19
+260,West,Electronics,13,257.18,3343.37
+261,Central,Office Supplies,10,28.3,282.99
+262,South,Furniture,1,184.74,184.74
+263,West,Office Supplies,16,39.65,634.37
+264,Central,Electronics,20,280.18,5603.64
+265,East,Office Supplies,7,36.68,256.77
+266,East,Office Supplies,4,40.64,162.54
+267,West,Furniture,15,146.39,2195.91
+268,Central,Office Supplies,5,29.25,146.27
+269,Central,Furniture,14,156.64,2192.92
+270,East,Office Supplies,12,35.42,425.06
+271,Central,Electronics,9,291.39,2622.54
+272,South,Furniture,11,201.89,2220.83
+273,South,Electronics,5,275.4,1377.02
+274,East,Office Supplies,13,41.53,539.89
+275,Central,Electronics,13,201.38,2617.99
+276,West,Furniture,12,192.43,2309.2
+277,Central,Office Supplies,13,39.5,513.53
+278,Central,Electronics,8,247.14,1977.1
+279,Central,Office Supplies,8,37.06,296.45
+280,South,Office Supplies,10,37.08,370.79
+281,West,Electronics,2,294.61,589.23
+282,Central,Furniture,4,150.99,603.96
+283,East,Furniture,15,170.7,2560.55
+284,South,Office Supplies,5,40.38,201.92
+285,West,Furniture,20,173.37,3467.49
+286,Central,Electronics,12,221.72,2660.62
+287,South,Electronics,12,209.93,2519.12
+288,Central,Office Supplies,12,28.84,346.07
+289,Central,Electronics,4,294.89,1179.56
+290,South,Electronics,7,264.16,1849.12
+291,West,Electronics,11,224.35,2467.83
+292,East,Office Supplies,7,28.95,202.67
+293,East,Office Supplies,7,39.37,275.6
+294,East,Furniture,5,200.77,1003.86
+295,West,Furniture,5,215.09,1075.45
+296,Central,Electronics,4,266.1,1064.38
+297,West,Electronics,1,235.81,235.81
+298,East,Office Supplies,11,28.21,310.34
+299,Central,Electronics,5,274.16,1370.8
+300,West,Office Supplies,3,34.66,103.97
+301,Central,Office Supplies,19,29.52,560.85
+302,East,Office Supplies,2,38.17,76.34
+303,Central,Furniture,1,148.37,148.37
+304,South,Furniture,14,193.39,2707.44
+305,South,Office Supplies,15,29.02,435.31
+306,West,Furniture,20,154.67,3093.43
+307,East,Furniture,20,189.57,3791.42
+308,Central,Furniture,20,182.19,3643.8
+309,South,Office Supplies,20,34.01,680.26
+310,West,Office Supplies,18,38.08,685.46
+311,East,Furniture,15,207.93,3118.97
+312,South,Furniture,15,172.7,2590.48
+313,West,Furniture,14,166.49,2330.89
+314,Central,Furniture,5,193.44,967.2
+315,South,Electronics,3,283.17,849.5
+316,West,Furniture,4,197.6,790.4
+317,Central,Electronics,18,205.99,3707.82
+318,Central,Office Supplies,4,33.74,134.97
+319,South,Office Supplies,2,41.55,83.09
+320,Central,Furniture,4,185.6,742.4
+321,East,Electronics,16,222.42,3558.65
+322,West,Furniture,18,170.45,3068.19
+323,Central,Office Supplies,8,39.29,314.32
+324,West,Office Supplies,9,28.4,255.58
+325,Central,Office Supplies,10,40.89,408.9
+326,Central,Electronics,6,286.97,1721.85
+327,South,Electronics,5,274.09,1370.43
+328,West,Electronics,17,221.5,3765.58
+329,South,Furniture,11,155.32,1708.57
+330,Central,Office Supplies,11,38.86,427.51
+331,West,Electronics,5,215.73,1078.66
+332,West,Office Supplies,3,31.8,95.4
+333,South,Furniture,20,175.82,3516.35
+334,Central,Electronics,17,211.37,3593.35
+335,South,Electronics,10,267.81,2678.11
+336,South,Office Supplies,10,28.63,286.28
+337,South,Office Supplies,2,28.1,56.2
+338,Central,Electronics,5,276.41,1382.03
+339,Central,Furniture,4,144.55,578.19
+340,South,Electronics,5,238.01,1190.06
+341,East,Office Supplies,18,39.66,713.8
+342,Central,Electronics,13,286.16,3720.14
+343,West,Furniture,1,177.09,177.09
+344,West,Furniture,19,174.9,3323.08
+345,South,Office Supplies,14,32.04,448.62
+346,South,Electronics,11,217.18,2388.96
+347,South,Office Supplies,12,29.23,350.71
+348,West,Electronics,14,258.88,3624.27
+349,West,Furniture,10,197.69,1976.87
+350,East,Furniture,6,149.49,896.95
+351,West,Office Supplies,17,30.71,522.0
+352,Central,Furniture,5,161.0,805.01
+353,East,Furniture,7,156.48,1095.38
+354,East,Office Supplies,3,30.47,91.41
+355,South,Furniture,19,198.7,3775.3
+356,South,Office Supplies,19,36.99,702.83
+357,Central,Office Supplies,11,30.1,331.15
+358,West,Furniture,15,189.45,2841.74
+359,Central,Office Supplies,2,32.92,65.84
+360,West,Furniture,15,176.53,2647.92
+361,West,Furniture,10,149.52,1495.16
+362,West,Office Supplies,20,35.09,701.78
+363,South,Office Supplies,18,41.35,744.25
+364,West,Furniture,19,190.92,3627.51
+365,Central,Office Supplies,16,35.01,560.15
+366,West,Furniture,4,202.38,809.51
+367,Central,Office Supplies,3,35.05,105.16
+368,East,Electronics,8,270.75,2166.01
+369,South,Office Supplies,17,36.53,620.96
+370,Central,Furniture,10,171.88,1718.84
+371,Central,Office Supplies,20,28.72,574.5
+372,Central,Electronics,11,209.44,2303.86
+373,South,Furniture,9,196.1,1764.88
+374,East,Furniture,3,185.95,557.84
+375,East,Furniture,10,213.66,2136.62
+376,South,Electronics,20,270.87,5417.45
+377,West,Furniture,18,171.11,3080.01
+378,Central,Electronics,17,209.34,3558.73
+379,South,Office Supplies,12,28.25,338.97
+380,Central,Electronics,7,234.16,1639.15
+381,South,Electronics,8,299.99,2399.89
+382,East,Electronics,10,284.43,2844.31
+383,West,Office Supplies,18,39.68,714.25
+384,West,Office Supplies,11,40.26,442.84
+385,East,Office Supplies,13,30.15,391.96
+386,East,Office Supplies,20,39.32,786.31
+387,East,Office Supplies,15,28.6,429.05
+388,Central,Office Supplies,8,41.56,332.5
+389,Central,Office Supplies,15,31.27,469.01
+390,East,Furniture,16,209.07,3345.19
+391,East,Furniture,19,214.87,4082.49
+392,South,Furniture,13,180.2,2342.59
+393,South,Electronics,7,280.11,1960.8
+394,East,Furniture,2,190.15,380.31
+395,Central,Office Supplies,4,37.95,151.8
+396,West,Furniture,3,198.93,596.8
+397,Central,Furniture,17,154.6,2628.21
+398,South,Electronics,8,281.66,2253.27
+399,Central,Electronics,14,205.32,2874.44
+400,Central,Electronics,13,299.44,3892.73
+401,Central,Electronics,1,231.86,231.86
+402,West,Office Supplies,11,39.07,429.75
+403,East,Electronics,10,291.73,2917.28
+404,South,Office Supplies,5,38.61,193.06
+405,South,Furniture,20,144.37,2887.4
+406,West,Electronics,9,221.56,1994.01
+407,East,Office Supplies,20,35.38,707.57
+408,West,Furniture,8,165.67,1325.39
+409,West,Electronics,14,263.88,3694.38
+410,South,Electronics,4,283.66,1134.63
+411,South,Office Supplies,18,28.22,508.0
+412,East,Office Supplies,5,32.07,160.34
+413,West,Office Supplies,12,31.36,376.31
+414,South,Electronics,3,252.34,757.02
+415,Central,Electronics,17,254.4,4324.77
+416,West,Furniture,16,147.13,2354.02
+417,South,Furniture,9,197.8,1780.16
+418,Central,Electronics,12,224.1,2689.24
+419,West,Office Supplies,11,29.86,328.45
+420,Central,Office Supplies,11,39.38,433.16
+421,East,Office Supplies,15,41.72,625.79
+422,South,Office Supplies,6,39.35,236.1
+423,West,Office Supplies,15,28.51,427.64
+424,East,Electronics,7,288.57,2019.97
+425,Central,Furniture,17,172.66,2935.26
+426,South,Furniture,2,198.23,396.45
+427,East,Furniture,12,206.06,2472.75
+428,West,Office Supplies,11,31.82,349.98
+429,Central,Furniture,13,197.51,2567.59
+430,South,Furniture,6,179.72,1078.3
+431,South,Furniture,17,163.19,2774.31
+432,West,Office Supplies,14,29.1,407.35
+433,East,Office Supplies,10,32.49,324.88
+434,West,Furniture,10,166.06,1660.58
+435,South,Electronics,15,235.15,3527.18
+436,West,Office Supplies,12,36.6,439.17
+437,South,Furniture,2,149.39,298.79
+438,South,Furniture,17,201.67,3428.35
+439,East,Electronics,5,284.86,1424.28
+440,South,Electronics,5,206.72,1033.58
+441,Central,Furniture,13,212.35,2760.55
+442,West,Office Supplies,5,37.5,187.48
+443,Central,Furniture,15,198.93,2983.97
+444,East,Office Supplies,12,33.56,402.75
+445,Central,Electronics,4,202.58,810.33
+446,East,Furniture,17,171.85,2921.51
+447,West,Furniture,9,194.68,1752.12
+448,East,Office Supplies,10,37.7,377.05
+449,South,Electronics,4,213.56,854.26
+450,West,Furniture,6,208.69,1252.16
+451,South,Electronics,11,266.77,2934.51
+452,West,Office Supplies,18,32.06,577.01
+453,Central,Electronics,6,279.36,1676.15
+454,East,Electronics,7,279.2,1954.37
+455,East,Furniture,1,169.98,169.98
+456,Central,Furniture,18,153.34,2760.03
+457,West,Electronics,10,239.81,2398.06
+458,South,Office Supplies,14,38.76,542.6
+459,West,Electronics,11,264.22,2906.46
+460,South,Furniture,17,168.8,2869.53
+461,East,Electronics,14,250.28,3503.87
+462,West,Electronics,17,215.29,3659.98
+463,East,Electronics,11,293.46,3228.08
+464,East,Furniture,17,208.42,3543.19
+465,West,Furniture,7,189.71,1327.99
+466,Central,Electronics,10,261.43,2614.32
+467,West,Office Supplies,6,36.27,217.65
+468,East,Electronics,20,272.05,5441.05
+469,Central,Office Supplies,2,39.54,79.08
+470,West,Electronics,2,294.84,589.69
+471,Central,Office Supplies,7,38.73,271.08
+472,South,Office Supplies,1,34.96,34.96
+473,Central,Office Supplies,10,34.75,347.51
+474,South,Furniture,15,149.25,2238.69
+475,West,Electronics,15,241.55,3623.29
+476,South,Electronics,11,260.66,2867.21
+477,Central,Office Supplies,11,38.27,420.95
+478,Central,Furniture,5,198.76,993.78
+479,West,Furniture,8,177.58,1420.61
+480,Central,Furniture,8,154.13,1233.08
+481,West,Furniture,13,206.21,2680.71
+482,South,Electronics,6,281.34,1688.02
+483,Central,Electronics,6,249.82,1498.9
+484,South,Furniture,10,179.8,1798.01
+485,West,Furniture,17,176.91,3007.48
+486,East,Electronics,19,235.28,4470.32
+487,West,Furniture,16,187.01,2992.18
+488,South,Furniture,18,144.58,2602.45
+489,West,Furniture,5,207.53,1037.63
+490,Central,Furniture,12,147.25,1766.99
+491,West,Office Supplies,18,30.72,552.9
+492,Central,Electronics,13,250.42,3255.4
+493,Central,Office Supplies,20,29.65,593.1
+494,West,Furniture,12,201.22,2414.66
+495,Central,Office Supplies,12,38.56,462.7
+496,East,Office Supplies,17,33.61,571.37
+497,West,Electronics,2,213.7,427.39
+498,Central,Furniture,17,176.89,3007.19
+499,East,Furniture,20,166.92,3338.5
+500,South,Office Supplies,10,36.3,363.02
