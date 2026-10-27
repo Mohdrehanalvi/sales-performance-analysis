@@ -14,10 +14,10 @@ SQL (SQLite), Python (pandas-style analysis with sqlite3), matplotlib
 - Office Supplies had 164 orders but only $61,709.30 in sales, so it drives order volume, not revenue
 
 ## Sales by region
-![Sales by region](charts/sales_by_region.png)
+![Sales by region](charts/sales_by_region.svg)
 
 ## Sales by category
-![Sales by category](charts/sales_by_category.png)
+![Sales by category](charts/sales_by_category.svg)
 
 ## What this means
 - Focus growth effort on Central and on Electronics, where revenue is concentrated.
